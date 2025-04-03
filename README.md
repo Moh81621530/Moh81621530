@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, machine learning, and open-source projects.
 - 🌱 I’m currently learning advanced algorithms and data structures, focusing on optimization techniques.
 - 💞️ I’m looking to collaborate on projects involving automation, web scraping, and AI-powered apps.
-- 📫 How to reach me: You can contact me via email at moh81621530@fakeemail.com or on Twitter @Moh81621530.
+- 📫 How to reach me: You can contact me via email at moh81621530 or on Twitter @Moh81621530.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once trained a neural network to predict pizza toppings based on mood.
 
